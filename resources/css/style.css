@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    font-size: 2.3rem;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.navBar ul li {
+    display: inline-flex;
+    margin: 0px 10rem;    
+}
+
+.navBar ul li a {
+    font-size: 2rem;
+    text-decoration: underline;
+    color: black
+}
