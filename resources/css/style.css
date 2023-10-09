@@ -26,7 +26,6 @@
     flex-direction: column;
     background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");
     height: 25rem;
-    border: solid red 1px;
 }
 
 .missionStatement {
@@ -36,4 +35,5 @@
     background-color: white;
     color: black;
     font-size: 2rem;
+    line-height: 7%;
 }
