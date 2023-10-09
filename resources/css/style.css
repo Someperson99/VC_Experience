@@ -19,3 +19,21 @@
     text-decoration: underline;
     color: black
 }
+
+
+.mission {
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");
+    height: 25rem;
+    border: solid red 1px;
+}
+
+.missionStatement {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+}
